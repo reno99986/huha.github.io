@@ -9,7 +9,8 @@ h1	 {
 		color:white;
 		}
 body { background:url(bg.jpg);
-		background-size:1000px 1000px;
+		background-size:360px 640;
+	height:640; width:320;
 		}
 paragraph { font-size:23px;
 			text-align:center;
